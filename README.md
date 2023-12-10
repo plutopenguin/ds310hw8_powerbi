@@ -16,6 +16,7 @@ There are eight tables:
 - Professors
 - Students
 - Universities
+
 While I manually made a snowflake schema, PowerBI was able to construct the same schema automatically.
 ## Other notes
 In another assignment, I practiced connecting PowerBI with a Virtual Machine (VM) created on Microsoft Azure, but the focus of that procedure was on working with VMs and not creating any substantial PowerBI report.
